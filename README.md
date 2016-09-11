@@ -1,4 +1,4 @@
-# [MeGa shield](https://telegram.me/AntiSpam_shield)
+# [amir](https://telegram.me/kali_linux_amir)
 
 **An advanced and powerful administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under the [GNU General Public License](https://github.com/hafez16/mega-shield/blob/supergroups/LICENSE)**.
 
@@ -268,9 +268,6 @@ Create a realm using the `!createrealm` command.
 
 # Support and development
 
-Check out this [tutorial by Telegram Geeks](http://telegramgeeks.com/2016/01/teleseed-tutorial/) for further assistance with setup and installation.
+Check out this [tutorial by Telegram Geeks](http://telegramgeeks.com/2016/01/teleseed-tutorial/) for further assistance with setup and installatio
 
-[hafez (developer)](https://telegram.me/hafez1116hafez)
-[amir hosein (developer)](https://telegram.me/amirho3ien911)
-[mostafa (manager)](https://telegram.me/Eblis_alone)
-[mohammad (sponsor)](https://telegram.me/Mmd_hei)
+این سورس توسط امیر ساخته شده کپی بدون ذکر منبع حرام است
